@@ -48,7 +48,7 @@ function App() {
            display:'flex',
            justifyContent:'space-between',
            alignItems:'flex-end',
-           paddingLeft:'4.8%',
+           paddingLeft:'5%',
            paddingRight:'5%'
            
          }}>

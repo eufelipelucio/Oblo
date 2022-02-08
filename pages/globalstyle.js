@@ -10,7 +10,7 @@ function GlobalStyle(){
         list-style: none;
       }
       body {
-        font-family: 'Open Sans', sans-serif;
+        font-family: 'Kentledge''Open Sans', sans-serif;
         margin: 0;
         padding: 0;
         background-color:#FF5876;
