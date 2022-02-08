@@ -252,7 +252,9 @@ function Corpo(){
                     <Image src='/images/Saly-2.png'  
                             alt='Logo' 
                             styleSheet={{
-                            maxWidth:'760px'
+                            maxWidth:'500px',
+                            marginTop:'80px'
+
                     }}/>                    
                 </Box>
             </Box>
