@@ -175,7 +175,8 @@ useEffect(()=> {
                         <a href='#' 
                             style={styles.video}>
                                 Assistir Video
-                                    <Icon styleSheet={{
+                                    <Icon name="FaRegPlayCircle"
+                                    styleSheet={{
                                     color:appColor.theme.colors.primary[222],
                                     width:'25px',
                                     height:'18px',   
