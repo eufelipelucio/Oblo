@@ -12,7 +12,7 @@
     </ul>
 </details>
 <div>
-   <p>Acompanhe o andamento do projeto-><a href="https://oblo-83k46ilnx-eufelipelucio.vercel.app/">Oblo</a></p>
+   <p>Acompanhe como ficou meu primeiro projeto com ReactJs-><a href="https://oblo-83k46ilnx-eufelipelucio.vercel.app/">Oblo</a></p>
 </div>
 <div>
   <p>Design criado por <a href='https://github.com/o-miuki'>Miuki</a></p>
