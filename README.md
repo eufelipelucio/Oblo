@@ -1,7 +1,7 @@
 # 
 <div  align="center">
   <h1>Oblo</h1>
-  <h2>Projeto em desenvolvimento</h2>
+  <h2>Projeto Oblo Finalizado</h2>
 <details> 
   <summary >Tecnologias usadas</summary>
     <ul>
@@ -12,8 +12,8 @@
     </ul>
 </details>
 <div>
-   <p>Acompanhe o andamento do projeto-><a href="https://oblo-83k46ilnx-eufelipelucio.vercel.app/">Oblo</a></p>
+   <p>Acompanhe como ficou meu primeiro projeto com ReactJs-><a href="https://oblo-83k46ilnx-eufelipelucio.vercel.app/">Oblo</a></p>
 </div>
 <div>
-   <p>Design criado por Miuki</p>
+  <p>Design criado por <a href='https://github.com/o-miuki'>Miuki</a></p>
 </div>
