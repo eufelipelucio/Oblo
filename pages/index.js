@@ -1,21 +1,21 @@
 import React from 'react'
-import Header from './header'
-import GlobalStyle from './globalstyle'
-import Corpo from './corpo'
+import Header from '../components/header'
+import GlobalStyle from '../components/globalstyle'
+import Corpo from '../components/corpo'
+import Footer from '../components/footer'
 
 function App() {
   return (
     <>
       <GlobalStyle/>
-       <Header/>
+       <Header/>       
        <Corpo/>
-
+       <Footer/>
     </>
   )
 }
 
 export default App
-
 
 
 
