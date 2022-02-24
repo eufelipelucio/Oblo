@@ -16,4 +16,7 @@
 </div>
 <div>
   <p>Design criado por <a href='https://github.com/o-miuki'>Miuki</a></p>
+  
+  ![image](https://user-images.githubusercontent.com/79817131/155469522-51d0d449-26b4-480e-b06e-5bfc1f2b4670.png)
+
 </div>
